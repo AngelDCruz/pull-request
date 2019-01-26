@@ -1,0 +1,1 @@
+remote sube o remueve los archivos del repositorio de git.
