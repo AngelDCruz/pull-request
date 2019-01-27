@@ -15,3 +15,6 @@ No cubre typecript
 
 ##Seccion comentarios
 Fue un place conocerte y colaborar contigo, dejo algunos cambios me parecio excelente tu idea de unir los ambos proyectos
+
+##saludos
+Hola agregamos nuevos aportes y mejoras a la aplicación.
